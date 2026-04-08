@@ -1,0 +1,2 @@
+PASS: 未找到禁止的技术架构内容（API endpoint/REST/GraphQL/数据库schema）
+PASS: 未找到禁止的设计内容（线框图/mockup/用户故事）
