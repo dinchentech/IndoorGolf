@@ -1,7 +1,7 @@
 # ONEPPP连锁社区高尔夫+射击加盟总部：投资合作商业计划书
 
 **项目名称**：ONEPPP连锁社区微型体验店（高尔夫+射击复合业态）
-**融资主体**：ONEPPP.TECH 连锁加盟总部
+**融资主体**：ONEPPP.TECH 连锁加盟总部(Http://onepp.tech)
 **融资阶段**：天使轮 / A 轮
 **目标金额**：¥500 - 1,200 万
 **联系方式**：微信 dinchen-annie | Email annie@dinchen.com.tw
