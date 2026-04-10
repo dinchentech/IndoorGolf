@@ -6,7 +6,9 @@
 **目标金额**：¥500 - 1,200 万
 **联系方式**：微信 dinchen-annie | Email annie@dinchen.com.tw
 
-(外观示范: https://www.golfcityclub.com/paper/other_page.php?id=2411)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-7.png)
 ---
 
 ## 一、 执行摘要 (Executive Summary)
